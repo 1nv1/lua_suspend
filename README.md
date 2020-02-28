@@ -12,6 +12,14 @@ to use __sleep__ function. This library, only has that function.
 
 ## Instalation
 
+### Rocks
+
+```
+# luarocks install --server=https://luarocks.org/dev suspend
+```
+
+### Building
+
 ```
 git clone https://github.com/1nv1/lua_suspend
 cd lua_suspend
