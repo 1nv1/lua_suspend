@@ -3,7 +3,7 @@
 Suspend function for Lua.
 
 The suspend function is extracted from sleep function on [luasocket](https://github.com/diegonehab/luasocket).
-The idea es bases on [lua_sleep](https://github.com/darkstalker/lua_sleep) proyect.
+The idea is based on [lua_sleep](https://github.com/darkstalker/lua_sleep) proyect.
 
 ## Goal
 
